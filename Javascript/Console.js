@@ -1,0 +1,1 @@
+console.log("Goodbye world. I have nothing more to say");
